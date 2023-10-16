@@ -79,5 +79,5 @@ Check Deployments, Pods and Services:
     kubectl get deploy
     kubectl get pods
     kubectl get svc
-    
+ts
 
